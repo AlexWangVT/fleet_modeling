@@ -1,0 +1,102 @@
+🚗 Passenger Vehicles
+These are sedans, station wagons, and sport vans used primarily for transporting passengers.
+
+Sedan Models:
+Sedan Executive (2)
+Sedan Executive (3)
+Sedan Full-Size
+Sedan Mid-Size
+Sedan, Executive
+Sedan Security Patr.
+Security Patrol DD
+Sec. Pat, DD (Gasoline)
+Station Wagons & Vans:
+Station Wagon M-Size
+Sport Van 12 Pass.
+🛻 Mini Trucks (Compact Pickups)
+Small pickups or utility vehicles that are compact in size and often used for light-duty transportation.
+
+Pickup 4x2, Compact
+PU Compact 4x2, CC, D
+🚚 Light-Duty Trucks (Class 1-3, ≤14,000 lbs GVWR)
+Includes small pickups, carryalls (SUV-like vehicles), and some stake trucks.
+
+Pickup Trucks (Light-Duty)
+Pickup 4x2 1/2 Ton
+Pickup 4x4 1/2 Ton
+Pickup 4x4, ½ Ton
+Pickup 4x2, Mid Size
+PU 4x2 1/2 T Sec Pat
+PU 4x4 1/2 T Sec Pat
+Carryall / SUV-like Vehicles
+Carryall 4x2, SWB
+Carryall 4x2, LWB
+Carryall 4x4, SWB
+Carryall 4x4, LWB
+Carryall 4x4, 5 Pass
+Carryall 4x4, SWB SP
+Carryall, 4x4, DD, G
+Carryall, 4x4, deep
+Carryall 4x4, 3/4 T
+Carryall, 4x4, DD, D
+Carryall 4x4 Sec Pat
+Executive Carryall
+🚛 Medium-Duty Trucks (Class 4-6, 14,001-26,000 lbs GVWR)
+Includes 3/4 Ton & 1 Ton trucks, step vans, utility trucks, and service vehicles.
+
+Pickup Trucks (Medium-Duty, 3/4 Ton & 1 Ton)
+Pickup 4x2 3/4 Ton
+Pickup 4x4 3/4 Ton
+Pickup 4x4, ¾ Ton
+Pickup 4x4 1 Ton
+Pickup 4x2, ¾ Ton
+PU Crewcab 4x4, 1 T
+PU Crewcab 4x2, 1 T
+PU C/Cab 4x4 1 T
+Utility & Service Vehicles
+Utility 4x4, 1 Ton
+Utility CC 4x4, 1 T
+Utility 4x2, 3/4 Ton
+Utility 4x2, 1/2 Ton
+Util Tr 4x4, 1 T
+Util C. Cab 4x2, 1 T
+Util C. Cab 4x4, 1 T
+Utility Truck 4x4, 1 T
+Fiber Optic Repair V
+Stake & Cargo Trucks (Medium-Duty)
+Stake 4x2, 1 Ton
+Stake 4x4, 1 Ton
+Stake Truck 16# 4x4
+St Truck 4x4, 1 T
+Step Vans & Specialty Vehicles
+Step Van 4x2 1 Ton
+TL053 - PU Crew Cab
+Medical Waste Van
+Ambulances & Emergency Vehicles
+Van Ambulance 4x2
+Van Ambulance 4X4 (S)
+Van Ambulance 4x4
+🚛 Heavy-Duty Trucks (Class 7-8, >26,001 lbs GVWR)
+Includes heavy haulers, stake trucks, dump trucks, and tanker trucks.
+
+Stake & Heavy Trucks
+Stake Tr 4x4, 1 T
+Stake Tr 4x4, 1.5 T
+Stake Truck 16"
+St Tr 16' Hyd. Tail.
+St Tr 14' Hyd. Crane
+St Tr 14' Hyd C 4x4
+Dump Trucks & Tankers
+Dump Tr, 4Cu. Yards
+Water Tanker, 2000 G
+Svcs Tanker 1500 G
+Svcs T, 4x2, 1500 G
+Utility & Hoist Trucks
+C Cab Crane Tr 4x2
+Hoist Trk C/Cab, 1 T
+Telescopic Crane Tru
+Tel Inst. 4x2, 3/4 T
+🚌 Buses
+Includes passenger transport vehicles for public or private use.
+
+Bus, 25 Passengers
