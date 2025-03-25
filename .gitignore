@@ -6,7 +6,6 @@ results/*.docx
 include/
 Lib/
 *.pptx
-*.png
 *.cfg
 .venv/
 .vscode/
