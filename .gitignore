@@ -1,10 +1,17 @@
 *.csv
 *.xlsx
 MLSD  RDC  SLA Draft_ec01.docx
-fuel_economy_data/
-results/
+results/*.csv
+results/*.docx
 include/
 Lib/
 *.pptx
 *.png
 *.cfg
+.venv/
+.vscode/
+data/
+literature/
+presentation/
+
+
