@@ -9,7 +9,9 @@ Lib/
 *.cfg
 .venv/
 .vscode/
-data/
+data/fuel_economy_data/
+data/new_vkt_data/
+data/old_vkt_data/
 literature/
 presentation/
 
