@@ -1,6 +1,8 @@
 MLSD  RDC  SLA Draft_ec01.docx
 results/*.csv
 results/*.docx
+results/new_results/*.xlsx
+results/new_results/*.csv
 include/
 Lib/
 *.pptx
