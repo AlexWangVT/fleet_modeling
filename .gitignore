@@ -1,6 +1,7 @@
 MLSD  RDC  SLA Draft_ec01.docx
 results/*.csv
 results/*.docx
+results/*.xlsx
 results/new_results/*.xlsx
 results/new_results/*.csv
 include/
@@ -15,5 +16,7 @@ data/old_vkt_data/
 literature/
 presentation/
 data/
-
+Xin/
+Saudi_slides/
+TCO/*.xlsm
 
